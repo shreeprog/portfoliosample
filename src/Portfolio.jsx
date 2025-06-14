@@ -51,9 +51,19 @@ const Portfolio = () => {
       description: 'Collaborative management tool with real-time updates',
       technologies: ['React', 'CSS', 'MUI', 'Bootstrap','HTML', 'JS'],
     },
+     {
+      title: 'Drone Website',
+      description: 'Web solution page for make the client deals',
+      technologies: ['React', 'CSS', 'MUI', 'Bootstrap','HTML', 'JS'],
+    },
   ];
 
   const experience = [
+    {
+      title: 'College class Projects',
+      company: 'GIFT AUTONOMOUS COLLEGE',
+      period: 'Nov 2023 - Dec 2023',
+    },
     {
       title: 'Internship',
       company: 'Web_bocket pvt ltd',
@@ -120,7 +130,7 @@ const Portfolio = () => {
       </AppBar>
 
       {/* Hero Section */}
-  <Box sx={{ position: "relative", height: "100vh", overflow: "hidden" }}>
+ <Box sx={{ position: "relative", height: "100vh", overflow: "hidden" }}>
       {/* Video Background */}
       <video
         autoPlay
@@ -292,6 +302,8 @@ const Portfolio = () => {
         </Grid>
       </Container>
     </Box>
+
+
 
       {/* About Section */}
       <Box

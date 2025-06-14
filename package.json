@@ -44,7 +44,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://github.com/shreeprog/portfoliosample.git",
+  "homepage": "https://shreeprog.github.io/portfoliosample",
  "scripts": {
   "start": "react-scripts start",
   "build": "react-scripts build",
