@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shreeprog/portfoliosample.git/static/css/main.ad5afcee.css",
+    "main.js": "/shreeprog/portfoliosample.git/static/js/main.f507faef.js",
+    "static/js/453.1407b060.chunk.js": "/shreeprog/portfoliosample.git/static/js/453.1407b060.chunk.js",
+    "static/media/image.jpg.jpeg": "/shreeprog/portfoliosample.git/static/media/image.jpg.6ffc78b7b4c301fed5e0.jpeg",
+    "static/media/logo.svg": "/shreeprog/portfoliosample.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shreeprog/portfoliosample.git/index.html",
+    "main.ad5afcee.css.map": "/shreeprog/portfoliosample.git/static/css/main.ad5afcee.css.map",
+    "main.f507faef.js.map": "/shreeprog/portfoliosample.git/static/js/main.f507faef.js.map",
+    "453.1407b060.chunk.js.map": "/shreeprog/portfoliosample.git/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad5afcee.css",
+    "static/js/main.f507faef.js"
+  ]
+}
